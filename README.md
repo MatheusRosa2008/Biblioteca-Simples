@@ -1,4 +1,4 @@
-# 📚 Biblioteca Simples (Java)
+#  Biblioteca Simples (Java)
 
 Um sistema em linha de comando (CLI) desenvolvido em Java para gerenciamento básico de estoque, empréstimos e devoluções de livros em estantes. 
 
@@ -6,11 +6,11 @@ Projeto desenvolvido como parte da disciplina de Algoritmos e Programação do 1
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O objetivo principal deste projeto é aplicar os conceitos fundamentais de lógica de programação e estruturas de dados básicas, utilizando matrizes para simular o armazenamento físico de livros distribuídos em estantes.
 
-### 💡 Conceitos Aplicados:
+###  Conceitos Aplicados:
 * Vetores (Arrays unidimensionais): Mapeamento e identificação dos nomes dos livros por índices.
 * Matrizes (Arrays bidimensionais): Controle de estoque por localização física (linhas representam as estantes e colunas os livros).
 * Estruturas de Repetição (do-while, for): Fluxo principal do programa e exibição tabulada dos dados.
@@ -18,7 +18,7 @@ O objetivo principal deste projeto é aplicar os conceitos fundamentais de lógi
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 - Visualizar Estoque: Exibe a lista de livros cadastrados com seus respectivos códigos e a quantidade de exemplares disponíveis em cada estante.
 - Fazer Empréstimo: Permite ao usuário escolher um livro e uma estante. O sistema decrementa a quantidade do estoque e valida a disponibilidade do exemplar.
@@ -28,14 +28,14 @@ O objetivo principal deste projeto é aplicar os conceitos fundamentais de lógi
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Linguagem: Java (JDK 8 ou superior)
 * Entrada de Dados: java.util.Scanner
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 Ter o Java JDK instalado em sua máquina.
@@ -56,7 +56,7 @@ Ter o Java JDK instalado em sua máquina.
 
 ---
 
-## 🗺️ Estrutura da Matriz de Estoque
+##  Estrutura da Matriz de Estoque
 
 Visualização de como as informações de estoque são organizadas internamente:
 
@@ -71,7 +71,7 @@ Visualização de como as informações de estoque são organizadas internamente
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Desenvolvido por Matheus Rosa
 Estudante de Engenharia de Software — 2º Período
