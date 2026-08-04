@@ -43,7 +43,7 @@ Ter o Java JDK instalado em sua máquina.
 ### Passo a Passo
 
 1. Clone este repositório:
-   git clone https://github.com/SEU_USUARIO/biblioteca-simples.git
+   git clone https://github.com/MatheusRosa2008/Biblioteca-Simples
 
 2. Acesse a pasta do projeto:
    cd biblioteca-simples
